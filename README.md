@@ -1,0 +1,3 @@
+# KansuProgramingNyumon
+関数プログラミング入門　Haskellで学ぶ原理と技法
+の練習問題の解答を置いていきます
